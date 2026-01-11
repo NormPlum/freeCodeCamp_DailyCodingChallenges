@@ -1,4 +1,4 @@
-These are my Python solutions for [freeCodeCamp's](https://www.freecodecamp.org/) '[Daily Coding Challenge](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)'.
+These are my Python solutions for [freeCodeCamp's](https://www.freecodecamp.org/) '[Daily Coding Challenge](https://www.freecodecamp.org/learn/daily-coding-challenge)'.
 
 > [!WARNING]
 > This repo contains spoilers for the daily coding challenges. Don't look at these Python files until you've tried solving the challenges yourself first.
