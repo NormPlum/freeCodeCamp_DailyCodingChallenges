@@ -3,7 +3,7 @@
 import re
 
 def is_valid_isbn10(s):
-    match = re.search("^[0-9X-]{13}$", s)
+    match = re.search("^[0-9-]{12}[0-9X]$", s)
     if not match:
         return False
 
