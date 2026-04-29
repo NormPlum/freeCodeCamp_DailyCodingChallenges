@@ -5,6 +5,8 @@ These are my Python solutions for [freeCodeCamp's](https://www.freecodecamp.org/
 
 Solution files are named according to the challenge ID number, and a link to the challenge page is in a comment at the top of each file.
 
+[![Developed by a human, not by AI](https://raw.githubusercontent.com/NormPlum/freeCodeCamp_DailyCodingChallenges/refs/heads/master/not-by-ai.png)](https://notbyai.fyi/)
+
 ### Disclaimer
 
 My solutions may not represent the best way to solve a given challenge. There are likely more efficient methods out there.
